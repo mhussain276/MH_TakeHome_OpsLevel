@@ -53,7 +53,6 @@ Add test coverage using:
 - `unittest` or `pytest` for both API and CLI functionality
 
 ### Deployment
-- Dockerize the app for easier deployment
 - Deploy the API to a cloud platform such as Heroku, Render, or Railway
 
 ---
